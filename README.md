@@ -1,7 +1,7 @@
 # DevOps-Project
 First Devops Project
 
-Softwares Required:
+#Softwares Required:
 - Git
 - Java v17
 - Jenkins v9
