@@ -24,22 +24,22 @@ First Devops Project
 
 # Steps Invovled
 Step-1: clone a sample web application
-	  https://github.com/bhupinderjnu/SampleWebApp.git
+        https://github.com/bhupinderjnu/SampleWebApp.git
 
-Step-2: Create a job in jenkins as githubpull
+Step-2: Create a job in jenkins as githubpull  
         Install github plugin on jenkins
  
-Step-3 Create another job as build and code review
+Step-3 Create another job as build and code review  
        Install 2 plugins Ant & warning next generation plughin
 
-Step-4: Create a job for continious testing as Unit test
+Step-4: Create a job for continious testing as Unit test  
         Install Junit plugin and configure
 
-Step-5: Create a job for Deployement as Deploy
+Step-5: Create a job for Deployement as Deploy  
         Install Deploy to container Plugin to deploy on Tomcat Container
 
-Step-6: Crete a job for CI/CD pipeline
+Step-6: Crete a job for CI/CD pipeline  
         Install Build pipeline plugin and then configure in each job in post build section so that the action is done contnious
 	
-Step-7: Configure in Poll PCM
+Step-7: Configure in Poll PCM  
         IN GithubbPull configure poll SCM as *****
