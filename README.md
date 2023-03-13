@@ -1,4 +1,4 @@
-# DevOps-Project (jENKINS)
+# DevOps-Project (JENKINS)
 First Devops Project done in JENKINS
 
 # Softwares Required:
