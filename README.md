@@ -1,5 +1,5 @@
 # DevOps-Project
-First Devops Project
+First Devops Project done in JENKINS
 
 # Softwares Required:
 - Git
