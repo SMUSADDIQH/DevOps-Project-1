@@ -40,3 +40,6 @@ Step-5: Create a job for Deployement as Deploy
 
 Step-6: Crete a job for CI/CD pipeline
         Install Build pipeline plugin and then configure in each job in post build section so that the action is done contnious
+	
+Step-7: Configure in Poll PCM
+        IN GithubbPull configure poll SCM as *****
